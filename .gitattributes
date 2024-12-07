@@ -1,2 +1,0 @@
-*.csv filter=lfs diff=lfs merge=lfs -text
-cifar10_data_test.csv filter=lfs diff=lfs merge=lfs -text
