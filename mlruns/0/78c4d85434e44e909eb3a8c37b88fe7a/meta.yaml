@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/78c4d85434e44e909eb3a8c37b88fe7a/artifacts
+end_time: 1733859686914
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 78c4d85434e44e909eb3a8c37b88fe7a
+run_name: marvelous-steed-296
+run_uuid: 78c4d85434e44e909eb3a8c37b88fe7a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733859686397
+status: 4
+tags: []
+user_id: niman

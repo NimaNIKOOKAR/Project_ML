@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/3dba9776a2b74a59a5ec1d1d33bbe3a7/artifacts
+end_time: 1733859762102
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3dba9776a2b74a59a5ec1d1d33bbe3a7
+run_name: receptive-shoat-51
+run_uuid: 3dba9776a2b74a59a5ec1d1d33bbe3a7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733859761591
+status: 4
+tags: []
+user_id: niman
