@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/cb73254c209d4fa59d3b8a40d79886f4/artifacts
+end_time: 1733754150202
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cb73254c209d4fa59d3b8a40d79886f4
+run_name: gregarious-fox-509
+run_uuid: cb73254c209d4fa59d3b8a40d79886f4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733753961689
+status: 4
+tags: []
+user_id: maria

@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/maria/OneDrive/Bureau/France/M2/S3/Tps/Project_ML/mlruns/178483360160325236/e45d274b1641417a9be80f6fa52db8d3/artifacts
+deleted_time: 1733587325860
+end_time: 1733587099558
+entry_point_name: ''
+experiment_id: '178483360160325236'
+lifecycle_stage: deleted
+run_id: e45d274b1641417a9be80f6fa52db8d3
+run_name: Wearable_Device_Stress_Classifier
+run_uuid: e45d274b1641417a9be80f6fa52db8d3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733586373198
+status: 4
+tags: []
+user_id: maria

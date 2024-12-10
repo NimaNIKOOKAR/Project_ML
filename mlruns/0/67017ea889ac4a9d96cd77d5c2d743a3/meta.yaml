@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/67017ea889ac4a9d96cd77d5c2d743a3/artifacts
+end_time: 1733757090315
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 67017ea889ac4a9d96cd77d5c2d743a3
+run_name: redolent-sow-924
+run_uuid: 67017ea889ac4a9d96cd77d5c2d743a3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733757089768
+status: 4
+tags: []
+user_id: maria

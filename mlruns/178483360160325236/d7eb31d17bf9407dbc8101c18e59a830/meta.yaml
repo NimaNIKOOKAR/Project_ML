@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/maria/OneDrive/Bureau/France/M2/S3/Tps/Project_ML/mlruns/178483360160325236/d7eb31d17bf9407dbc8101c18e59a830/artifacts
+end_time: 1733754421346
+entry_point_name: ''
+experiment_id: '178483360160325236'
+lifecycle_stage: active
+run_id: d7eb31d17bf9407dbc8101c18e59a830
+run_name: resilient-bird-1
+run_uuid: d7eb31d17bf9407dbc8101c18e59a830
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733754237863
+status: 4
+tags: []
+user_id: maria

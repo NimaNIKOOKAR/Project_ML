@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/126824e5250640c1a5c334ac4fc5f270/artifacts
+end_time: 1733590283299
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 126824e5250640c1a5c334ac4fc5f270
+run_name: CIFAR-CNN
+run_uuid: 126824e5250640c1a5c334ac4fc5f270
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733589555853
+status: 4
+tags: []
+user_id: maria
