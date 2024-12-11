@@ -21,7 +21,7 @@ def predict():
         print("Données traitées :", input_data.shape)
 
         # Faire une prédiction
-        predictions = modelCNN.predict(input_data)
+        predictions = modelANN.predict(input_data)
         print("Prédiction effectuée")
 
         predicted_class = int(np.argmax(predictions))
