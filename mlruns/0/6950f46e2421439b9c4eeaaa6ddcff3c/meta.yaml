@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/6950f46e2421439b9c4eeaaa6ddcff3c/artifacts
+end_time: 1733913240373
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6950f46e2421439b9c4eeaaa6ddcff3c
+run_name: capricious-mare-620
+run_uuid: 6950f46e2421439b9c4eeaaa6ddcff3c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733913240348
+status: 4
+tags: []
+user_id: niman
