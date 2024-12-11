@@ -3,7 +3,7 @@ from tensorflow.keras.models import load_model
 import numpy as np
 
 # Charger le modèle ANN et CNN
-modelCNN = load_model("C:/Users/etudiant/Project_ML/CNN_model.h5")
+modelANN = load_model("C:/Users/etudiant/Project_ML/model.h5")
 
 # Initialiser Flask
 app = Flask(__name__)
