@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/cd73aa5d3df34cc88c89b83cdc3c493b/artifacts
+end_time: 1733904735476
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cd73aa5d3df34cc88c89b83cdc3c493b
+run_name: polite-tern-608
+run_uuid: cd73aa5d3df34cc88c89b83cdc3c493b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733904722736
+status: 4
+tags: []
+user_id: niman

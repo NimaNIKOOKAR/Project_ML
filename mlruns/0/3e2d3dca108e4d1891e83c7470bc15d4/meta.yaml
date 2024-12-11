@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/3e2d3dca108e4d1891e83c7470bc15d4/artifacts
+end_time: 1733760680963
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3e2d3dca108e4d1891e83c7470bc15d4
+run_name: amazing-snipe-654
+run_uuid: 3e2d3dca108e4d1891e83c7470bc15d4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733760677807
+status: 4
+tags: []
+user_id: niman

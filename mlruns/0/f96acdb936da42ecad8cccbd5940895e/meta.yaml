@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/f96acdb936da42ecad8cccbd5940895e/artifacts
+end_time: 1733905318865
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f96acdb936da42ecad8cccbd5940895e
+run_name: rambunctious-auk-923
+run_uuid: f96acdb936da42ecad8cccbd5940895e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733905302794
+status: 3
+tags: []
+user_id: niman

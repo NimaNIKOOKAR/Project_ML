@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/863b64089b6e4f76a16d3923b1670ff9/artifacts
+end_time: 1733760600406
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 863b64089b6e4f76a16d3923b1670ff9
+run_name: angry-doe-235
+run_uuid: 863b64089b6e4f76a16d3923b1670ff9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733760597232
+status: 4
+tags: []
+user_id: niman

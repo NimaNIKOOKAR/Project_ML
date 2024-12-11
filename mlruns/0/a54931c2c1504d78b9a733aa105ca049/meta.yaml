@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/a54931c2c1504d78b9a733aa105ca049/artifacts
+end_time: 1733859701069
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a54931c2c1504d78b9a733aa105ca049
+run_name: inquisitive-cub-762
+run_uuid: a54931c2c1504d78b9a733aa105ca049
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733859700434
+status: 4
+tags: []
+user_id: niman

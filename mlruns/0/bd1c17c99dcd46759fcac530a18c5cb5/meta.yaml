@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/bd1c17c99dcd46759fcac530a18c5cb5/artifacts
+end_time: 1733760218520
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bd1c17c99dcd46759fcac530a18c5cb5
+run_name: capricious-bug-900
+run_uuid: bd1c17c99dcd46759fcac530a18c5cb5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733760215380
+status: 4
+tags: []
+user_id: niman

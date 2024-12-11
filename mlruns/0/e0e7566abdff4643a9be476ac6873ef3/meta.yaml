@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/e0e7566abdff4643a9be476ac6873ef3/artifacts
+end_time: 1733859767764
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e0e7566abdff4643a9be476ac6873ef3
+run_name: enthused-stork-982
+run_uuid: e0e7566abdff4643a9be476ac6873ef3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733859767225
+status: 4
+tags: []
+user_id: niman

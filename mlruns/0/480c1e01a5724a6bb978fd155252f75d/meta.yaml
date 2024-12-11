@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/480c1e01a5724a6bb978fd155252f75d/artifacts
+end_time: 1733913380411
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 480c1e01a5724a6bb978fd155252f75d
+run_name: secretive-ape-85
+run_uuid: 480c1e01a5724a6bb978fd155252f75d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733913371696
+status: 4
+tags: []
+user_id: niman
