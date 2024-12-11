@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/b5b508baba3e4c3c92b900bb36d0bc5a/artifacts
+end_time: 1733760330287
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b5b508baba3e4c3c92b900bb36d0bc5a
+run_name: glamorous-croc-918
+run_uuid: b5b508baba3e4c3c92b900bb36d0bc5a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733760327054
+status: 4
+tags: []
+user_id: niman
